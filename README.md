@@ -12,7 +12,7 @@ This is my last GUI project, I have tried Java FX but as I learned Swing I don't
 desktop app I can write it in Swing and it's not a problem for me, I like this technology even tho people are complaining on it.
 
 
-
+Project finished 06/2020
 
 
 
