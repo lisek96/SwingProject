@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NaukaJavy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NaukaJavy_jar</output-path>
+    <root id="archive" name="NaukaJavy.jar">
+      <element id="module-output" name="NaukaJavy" />
+    </root>
+  </artifact>
+</component>
