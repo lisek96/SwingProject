@@ -8,7 +8,7 @@ how % of a specic magazine is taken, he can also check what items are stored in 
 used GridBagLayout almost everywhere in this project so I haven't choosen an easy road to go! ;).
 
 
-This is my last GUI project, I have tried Java FX but as I learned Swing I don't see reason to learn Java FX since I want to become an Web Developer and if I need a
+This is my last GUI project, I have tried Java FX but as I learned Swing I haven't seen reason to learn Java FX since I want to become an Web Developer and if I need a
 desktop app I can write it in Swing and it's not a problem for me, I like this technology even tho people are complaining on it.
 
 
